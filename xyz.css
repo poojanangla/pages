@@ -1,0 +1,387 @@
+ #abc{
+    width:500px;
+    height: 500px;
+    text-align:center ;
+    background-color:lightgrey;
+    border:6px solid darkmagenta ;
+    margin: 40px;
+    position: relative;
+    
+ }
+ p{
+    border:1x solid green ;
+}
+
+
+.age {
+    width:99px;
+    height:46px;
+    top:288px;
+    border:3px solid green;
+    position:absolute;
+    margin-left:128px;
+    }
+    
+    .age h3{
+       text-align: center;
+       color:red;
+       padding-bottom:12px;
+    }
+        
+
+.a{
+    top:290px ;
+    width:99px;
+    height:44px;
+    color:darkgreen;
+    border: 3px solid plum;
+    position: absolute;
+    margin-right:200px ;
+
+}
+
+
+.g{
+    right:0px;
+    bottom:161px;
+    width: 98px;
+    height:44px;
+    color: brown;
+    border: 3px solid lightgreen;
+    position: absolute;
+    margin-left:200px ;
+}
+
+.e{
+ right:128px;
+bottom:161px ;
+width:98px;
+height:44px;
+color: blue;
+border: 3px solid lightcoral;
+position: absolute;
+margin-left:200px ;
+}
+
+.wor{
+    bottom:245px;
+    right: 417px;
+    width:70px;
+    height:70px;
+    color: aquamarine;
+    border:2px solid lightcoral ;
+    position: absolute;
+    border-radius:50px ;
+    
+
+}
+.w{
+    bottom:245px ;
+    right:287px ;
+   width:70px;
+   height:70px;
+   color: chocolate;
+   border:3px solid lightskyblue ;
+   position: absolute ;
+   border-radius:50px ;
+   
+}
+.o{
+    bottom:245px ;
+    right:17px ;
+   width:70px;
+   height:70px;
+   color: chartreuse;
+   border:3px solid salmon;
+   position:absolute ;
+   border-radius:50px ;
+
+   
+}
+.r{
+    bottom :245px;
+    right:140px ;
+width:70px;
+height:70px;
+color: darkslateblue;
+border: 3px solid lightblue;
+position: absolute;
+border-radius:50px ;
+}
+.xyz{
+    bottom:61px;
+    width:99px;
+    height:69px;
+    color: seagreen;
+    border:2px solid red ;
+    position: absolute;
+    
+
+}
+.x{
+    bottom:61px;
+    right:267px ;
+   width:99px;
+   height:69px;
+   color: brown;
+   border:3px solid hotpink ;
+   position: absolute ;
+   
+}
+.y{
+    bottom:61px ;
+    right:127px ;
+   width:108px;
+   height:68px;
+   color: firebrick;
+   border:3px solid darkolivegreen;
+   position:absolute ;
+
+   
+}
+.z{
+    bottom :61px;
+    right: 1px ;
+width:108px;
+height:68px;
+color: blue;
+border: 3px solid cornflowerblue;
+position: absolute;
+}
+.raju{
+bottom:0px;
+right:0px;
+width:494px;
+height:47px; 
+color: blueviolet;
+border:3px solid green ;
+position: absolute;
+
+}
+.raju h5 {
+    text-align: center;
+    padding:-4px ;
+}
+.yogesh {
+    bottom:56px ;
+    width: 494px;
+    height:273px;
+    color:darkblue ;
+    border:3px solid darkred ;
+    position:absolute;
+}
+.u {
+    width: 106px;
+    height:269px ;
+    color: aquamarine;
+    border:2px dotted mediumvioletred ;
+    position: absolute;
+
+}
+.s{
+    width: 111px;
+    height:269px;
+    color: brown;
+    border:2px dotted mediumvioletred;
+    position:absolute;
+    left:120px;
+}
+.h {
+    width: 119px;
+    height:269px;
+    color: brown;
+    border:2px dotted mediumvioletred;
+    position:absolute;
+    left:250px;
+}
+.f{
+    width:111px ;
+    height:269px;
+    color: brown;
+    border:2px dotted mediumvioletred;
+    position:absolute;
+    left: 379px;
+}
+.m{
+    bottom:1px;
+    width:103px ;
+    height:74px;
+    color:aqua;
+    border:2px solid darkgreen;
+    position:absolute;
+}
+.j{
+    bottom:90px;
+    width:103px ;
+    height:74px;
+    color:aqua;
+    border:2px solid darkgreen;
+    position:absolute;
+}
+.q{
+    bottom:178px;
+    width:103px ;
+    height:80px;
+    color:aqua;
+    border:2px solid darkgreen;
+    position:absolute;
+}
+.komal{
+    left:0px;
+    bottom:91px;
+    width:107px ;
+    height:74px;
+    color:aqua;
+    border:2px solid darkgreen;
+    position:absolute;
+}
+.manish{
+    left:0px;
+    bottom:-3px;
+    width:105px ;
+    height:80px;
+    color:aqua;
+    border:2px solid darkgreen;
+    position:absolute;
+}
+.lokesh{
+    left: 0px;
+    bottom:179px;
+    width:107px ;
+    height:80px;
+    color:aqua;
+    border:2px solid darkgreen;
+    position:absolute;
+}
+.meena{
+    left:0px;
+    bottom:91px;
+    width:115px ;
+    height:74px;
+    color:aqua;
+    border:2px solid darkgreen;
+    position:absolute;
+}
+.lata{
+    left:0px;
+    bottom:-3px;
+    width:115px ;
+    height:80px;
+    color:aqua;
+    border:2px solid darkgreen;
+    position:absolute;
+}
+.pinki{
+    left: 0px;
+    bottom:179px;
+    width:115px ;
+    height:80px;
+    color:aqua;
+    border:2px solid darkgreen;
+    position:absolute;
+}
+.dheeru{
+    left:0px;
+    bottom:91px;
+    width:107px ;
+    height:74px;
+    color:aqua;
+    border:2px solid darkgreen;
+    position:absolute;
+}
+.menu{
+    left:0px;
+    bottom:-3px;
+    width:107px ;
+    height:80px;
+    color:aqua;
+    border:2px solid darkgreen;
+    position:absolute;
+}
+.sonam{
+    left: 0px;
+    bottom:179px;
+    width:107px ;
+    height:80px;
+    color:aqua;
+    border:2px solid darkgreen;
+    position:absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
